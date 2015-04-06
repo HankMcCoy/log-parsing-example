@@ -1,0 +1,24 @@
+{
+  "name": "interviews",
+  "version": "0.0.0",
+  "description": "interviews ==========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/BuildingConnected/interviews.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/BuildingConnected/interviews/issues"
+  },
+  "homepage": "https://github.com/BuildingConnected/interviews",
+  "dependencies": {
+    "Faker": "~0.7.0",
+    "async": "~0.9.0",
+    "lodash": "~2.4.1"
+  }
+}
